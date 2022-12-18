@@ -1,0 +1,6 @@
+GET http://localhost:5000/products
+###
+GET http://localhost:5000/products/3
+
+###
+DELETE http://localhost:5000/products/3
